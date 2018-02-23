@@ -19,7 +19,7 @@ $config['register']		='normal';				//normal,正常;invite,只允许邀请注册;
 $config['mailauth']		=false;					//注册时是否邮箱验证
 
 /* url配置 */
-$config['urlroot']		='http://localhost/XSS';		//网站 URL 路径
+$config['urlroot']		='http://xss.ig9go.cn';		//网站 URL 路径
 $config['urlrewrite']	=true;					//URL Rewrite
 
 /* 存储配置 */
@@ -36,7 +36,7 @@ $config['show']=array(
 	'sitedesc'			=>'盲打天下',					//一句话简介
 	'keywords'			=>'xss',					//keywords
 	'description'		=>'',					//description
-	'adminmail'			=>'ohlinge@163.com'		//管理员邮箱
+	'adminmail'			=>'626875651@qq.com'		//管理员邮箱
 );
 
 /* 积分等级设置 */
