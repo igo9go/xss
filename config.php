@@ -19,7 +19,7 @@ $config['register']		='normal';				//normal,正常;invite,只允许邀请注册;
 $config['mailauth']		=false;					//注册时是否邮箱验证
 
 /* url配置 */
-$config['urlroot']		='http://xss.ig9go.cn';		//网站 URL 路径
+$config['urlroot']		='http://xss.igo9go.cn';		//网站 URL 路径
 $config['urlrewrite']	=true;					//URL Rewrite
 
 /* 存储配置 */
